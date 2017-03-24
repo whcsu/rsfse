@@ -1,0 +1,16 @@
+Package: rsfse
+Type: Package
+Title: Random Survival Forest with Space Extensions (short line)
+Version: 0.8
+Date: 2017-03-15
+Author: Hong Wang
+Maintainer: Hong Wang <wh@csu.edu.cn>
+Description: Random Survival Forest with Space Extensions for Right Censored
+    Data
+Depends:
+    rpart,
+    survival,
+    R (>= 3.1)
+URL: https://github.com/whcsu/sfse
+License: GPL-3
+RoxygenNote: 5.0.1
